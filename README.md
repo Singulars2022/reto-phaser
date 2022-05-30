@@ -12,8 +12,8 @@ Familiarizate un poco con el código del juego y luego implementa los siguientes
 Para cada requisito del 1 al 4, tan solo hay que cambiar
 una línea de código por requisito.
 
-1. El tamaño de la puntuación quiero que sea de un
-tamaño mucho más grande.
+1. El texto "SCORE" quiero que sea de un
+tamaño de letra mucho más grande.
 2. El color del texto SCORE debe ser diferente a negro,
 el que quieras.
 3. Las estrellas deben otorgar solo UN punto cada vez
